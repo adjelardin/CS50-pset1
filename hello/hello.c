@@ -7,4 +7,4 @@ int main(void)
     printf("Hello, %s\n", name);
 }
 
-// hello
+// hello world
